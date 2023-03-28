@@ -1,0 +1,25 @@
+01. meanA 
+02. meanAstd 
+03. meangstd 
+04. stdmeanA 
+05. stdstda 
+06. meang 
+07. skewmeanA 
+08. skewstdA 
+09. skewG 
+10. minmeanA 
+11. minstdA 
+12. minG 
+13. maxmeanA 
+14. maxstdA 
+15. maxmG 
+16. kurtmeanA 
+17. kurtstdA 
+18. kurtG 
+19. entromeanA numeri
+20. entrostdA 
+21. entroG 
+22. iqrmeanA 
+23. iqrstdA 
+24. iqrG 
+

@@ -1,0 +1,49 @@
+Feature Selection 
+=================
+
+The features selected for this database come from the accelerometer and gyroscope 3-axial signals Acc-XYZ and Gyro-XYZ. 
+These signals were captured at a constant rate of 100 Hz.
+
+The magnitude of these three-dimensional signals were calculated using the "Euclidean norm". 
+
+These signals were used to estimate variables of the feature vector for each pattern and each of them is a tri-axial feature vector. Any feature with capital A means its Accelerometer sensor signal
+and with capital G means, it is Gyroscope sensor signal. 
+
+
+meanA 
+meanAstd 
+meangstd 
+stdmeanA 
+stdstda 
+meang 
+skewmeanA 
+skewstdA 
+skewG 
+minmeanA 
+minstdA 
+minG 
+maxmeanA 
+maxstdA 
+maxmG 
+kurtmeanA 
+kurtstdA 
+kurtG 
+entromeanA numeri
+entrostdA 
+entroG 
+iqrmeanA 
+iqrstdA 
+iqrG 
+
+The set of variables that were estimated from these signals are: 
+
+mean(): Mean value
+std(): Standard deviation
+max(): Largest value in array
+min(): Smallest value in array
+iqr(): Interquartile range 
+entropy(): Signal entropy
+skewness(): skewness of the frequency domain signal 
+kurtosis(): kurtosis of the frequency domain signal 
+
+The complete list of variables of each feature vector is available in 'features.txt'
